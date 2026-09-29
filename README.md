@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkumarbel" alt="gauravkumarbel" /></a> </p>
 
-- 🔭 I’m currently working on Bharat Electronics Limited [01-CI-CD-Docker-K8s](https://github.com/gauravkumarbel/project.git)
+- 🔭 I’m currently working on Bharat Electronics Limited [https://github.com/gauravkumarbel/project.git](https://github.com/gauravkumarbel/project.git)
 
 - 📫 How to reach me **gauravkumardeal@gmail.com**
 
