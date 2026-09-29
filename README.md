@@ -1,3 +1,4 @@
+![logo](https://github.com/gauravkumarbel/gauravkumarbel/blob/main/Screenshot%20from%202026-09-29%2021-19-22.png)
 <h1 align="center">Hi 👋, I'm GAURAV KUMAR</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
