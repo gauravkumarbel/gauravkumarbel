@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkumarbel" alt="gauravkumarbel" /></a> </p>
 
-- 👯 [https://github.com/gauravkumarbel/gauravkumarbel](https://github.com/gauravkumarbel/gauravkumarbel)
+- 👯 [IT CAREER WEB](https://my-awesome-html-site.web.app/)
 
 - 📫 How to reach me **gauravkumardeal@gmail.com**
 
