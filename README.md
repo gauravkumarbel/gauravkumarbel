@@ -4,9 +4,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkumarbel&label=Profile%20views&color=0e75b6&style=flat" alt= /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravkumarbel&label=Profile%20views&color=0e75b6&style=flat" alt=""gauravkumarbel"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkumarbel" alt="gauravkumarbel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkumarbel" alt="" /></a> </p>
 
 - 👯 [IT CAREER WEB](https://my-awesome-html-site.web.app/)
 
