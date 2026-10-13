@@ -8,14 +8,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkumarbel" alt="" /></a> </p>
 
-- 👯 [IT CAREER WEB](https://my-awesome-html-site.web.app/)
+- 👯 [IT CAREER WEB](https://it-demo-8dade.web.app)
 
 - 📫 How to reach me **gauravkumardeal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-kumar-6ab28621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kumar-6ab28621b" height="30" width="40" /></a>
-<a href="https://dribbble.com/gauravkumarbel.github.io/project" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gauravkumarbel.github.io/project" height="30" width="40" /></a>
+<a href="https://it-demo-8dade.web.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="gauravkumarbel.github.io/project" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
